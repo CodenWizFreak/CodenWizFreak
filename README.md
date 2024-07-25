@@ -7,8 +7,7 @@
 - ⚡ Fun fact: ...
 
 
-![CodenWizFreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodenWizFreak&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodenWizFreak&show_icons=true&theme=radical)
+![CodenWizFreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodenWizFreak&show_icons=true&theme=radical)
 
 
 
