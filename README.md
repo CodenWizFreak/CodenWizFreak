@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dasguptaananyo28@gmail.com**
 - 🌱 I’m currently into App Development, Flutter, DSA, Data Science and Machine Learning
-- 📱 **When I'm not coding, you might find me debugging my way through the latest tech trends or simply enjoying a good 80s playlist (GTA fans, you know what I mean!)**
+- 📱 When I'm not coding, you might find me debugging my way through the latest tech trends or simply enjoying a good 80s playlist (GTA fans, you know what I mean!)
 
 
 <h3 align="left">Connect with me:</h3>
