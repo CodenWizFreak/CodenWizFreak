@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ananyo</h1>
-<h3 align="center">A passionate app developer from India</h3>
+<h1 align="center">Hey there 👋, I'm Ananyo</h1>
+
 
 <img align="right" alt="coding" width="200" src="https://github.com/user-attachments/assets/a73598d1-b569-4f3d-a692-ea120d5fc04c">
 
 - 📫 How to reach me **dasguptaananyo28@gmail.com**
+- 🌱 I’m currently into App Development, Flutter, DSA, Data Science and Machine Learning
+- 📱 **When I'm not coding, you might find me debugging my way through the latest tech trends or simply enjoying a good 80s playlist (GTA fans, you know what I mean!)**
 
-- ⚡ Fun fact **Out of the 700 languages, I know only a few**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codenwizfreak&label=Profile%20views&color=0e75b6&style=flat" alt="codenwizfreak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codenwizfreak" alt="codenwizfreak" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codenwizfreak&show_icons=true&locale=en" alt="codenwizfreak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codenwizfreak&" alt="codenwizfreak" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codenwizfreak&label=Profile%20views&color=0e75b6&style=flat" alt="codenwizfreak" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codenwizfreak" alt="codenwizfreak" /></a> </p>
+
