@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Ananyo</h1>
 
 
-<img align="right" alt="coding" width="200" src="https://github.com/user-attachments/assets/a73598d1-b569-4f3d-a692-ea120d5fc04c">
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/7ed2ea7b-3240-4c74-b7ad-8b994e12003e">
 
 - 📫 How to reach me **dasguptaananyo28@gmail.com**
 - 🌱 I’m currently into App Development, Flutter, DSA, Data Science and Machine Learning
