@@ -13,7 +13,6 @@
 <a href="https://twitter.com/ananyo0024dg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ananyo0024dg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ananyo-dasgupta-a4a82b292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananyo dasgupta" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26518490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26518490" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/codenwizfreak_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codenwizfreak_04" height="30" width="40" /></a>
 </p>
 
