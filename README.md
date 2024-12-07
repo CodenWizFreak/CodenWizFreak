@@ -7,6 +7,8 @@
 - 🌱 I’m currently into Android App Development, Flutter, DSA, Data Science and Machine Learning.
 - 📱 When I'm not coding, you might find me debugging my way through the latest tech trends, or simply enjoying a good 80s rock playlist (GTA fans, you know what I mean!)
 - 🔭 Currently working on ***Crest***.
+- 📃 Download my resume from here [Resume.pdf](https://github.com/user-attachments/files/18049696/ResumeAD.pdf)
+
 
 
 <h3 align="left">Connect with me:</h3>
