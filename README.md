@@ -5,9 +5,9 @@
 
 - 📫 How to reach me: **dasguptaananyo28@gmail.com**
 - 🌱 I’m currently into Android App Development, Flutter, DSA, Data Science and Machine Learning.
-- 📱 When I'm not coding, you might find me debugging my way through the latest tech trends, or simply enjoying a good 80s rock playlist (GTA fans, you know what I mean!)
+- 📱 When I'm not coding, you might find me debugging my way through the latest tech trends, or simply enjoying a good 80s rock playlist
 - 🔭 Currently working on ***Crest***.
-- 📃 Download my resume from here [Resume.pdf](https://github.com/user-attachments/files/18049696/ResumeAD.pdf)
+- 📃 Download my resume from here [Resume.pdf](https://github.com/user-attachments/files/18254735/AnanyoResumemain.pdf)
 
 
 
