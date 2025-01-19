@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Ananyo Dasgupta!!</h1>
 
+<p align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F731A3&width=435&lines=Full+Stack+Native+Android+Developer;Experienced+Data+Analyst;Wanna+Collaborate%3F+" alt="Typing SVG" /></a></p>
 
 <img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/7ed2ea7b-3240-4c74-b7ad-8b994e12003e">
 
