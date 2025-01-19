@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F731A3&width=435&lines=Full+Stack+Native+Android+Developer;Experienced+Data+Analyst;Wanna+Collaborate%3F+" alt="Typing SVG" /></a></p>
 
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/7ed2ea7b-3240-4c74-b7ad-8b994e12003e">
+<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhidjc3aTQ0b2E3anNrd2s4cmEyam9vM2o0bmg2MGJueDg0eDBoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 - 📫 How to reach me: **dasguptaananyo28@gmail.com**
 - 🌱 I’m currently into Android App Development, Flutter, DSA, Data Science and Machine Learning.
