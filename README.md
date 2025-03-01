@@ -7,7 +7,8 @@
 - 📫 How to reach me: **dasguptaananyo28@gmail.com**
 - 🌱 I’m currently into Android App Development, Flutter, DSA, Data Science and Machine Learning.
 - 📱 When I'm not coding, you might find me singing ancient ghazals one moment or singing along to chart-toppers the next.
-- 🔭 Currently working on ***OmiCareer***.
+- 🔭 Currently working on ***GoBus***.
+- 💡 Need help with ***OmiCareer***.
 - 📃 Download my resume from here [Resume.pdf](https://github.com/user-attachments/files/18812189/Resume.v25.02.08.pdf)
 
 - 🌐 Want to explore more about me? You can visit here [Do not click here](https://portfolioweb-ananyo.vercel.app)
