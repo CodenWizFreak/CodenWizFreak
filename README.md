@@ -40,7 +40,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codenwizfreak&label=Profile%20views&color=0e75b6&style=flat" alt="codenwizfreak" /> </p>
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Anidipta&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=CodenWizFreak&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
 
 
 <p align="left"><img src="https://github-trophies.vercel.app/?username=codenwizfreak&theme=radical" alt="codenwizfreak" /></p>
