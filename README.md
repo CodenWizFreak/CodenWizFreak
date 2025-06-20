@@ -13,7 +13,8 @@
 - 📱 When I'm not coding, you might find me singing ancient ghazals one moment or singing along to chart-toppers the next.
 - 🔭 Currently working on ***OmiShip***.
 - 💡 Need help with ***OmiCareer***.
-- 📃 Download my resume from here [Resume.pdf](https://github.com/user-attachments/files/20640092/Resume.v25.06.05.pdf)
+- 📃 Download my resume from here [Resume.pdf](https://github.com/user-attachments/files/20840543/Resume.v25.06.20.pdf)
+
 
 
 - 🌐 Want to explore more about me? You can visit here [Do not click here](https://portfolioweb-ananyo.vercel.app)
