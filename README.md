@@ -18,7 +18,7 @@
 
 
 - 🌐 Want to explore more about me? Do not [click here](https://portfolioweb-ananyo.vercel.app)
-- 😎 Want a more fun version? Check out this wonder [right here](https://portfoliomob-ananyo.vercel.app)
+- 😎 Want a more fun version? Check out this wonder [right here](https://portfolio-mob-ananyo.vercel.app)
 
 
 
