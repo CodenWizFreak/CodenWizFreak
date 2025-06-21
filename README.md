@@ -11,8 +11,8 @@
 - 📫 How to reach me: **dasguptaananyo28@gmail.com**
 - 🌱 I’m currently into Android App Development, Flutter, DSA, Generative AI, LLMs and Machine Learning.
 - 📱 When I'm not coding, you might find me singing ancient ghazals one moment or singing along to chart-toppers the next.
-- 🔭 Currently working on ***OmiShip***.
-- 💡 Need help with ***OmiCareer***.
+- 🔭 Currently working on ***OmiCareer***.
+- ✍🏻 Find my research works at [Google Scholar](https://scholar.google.com/citations?hl=en&user=pJObMZgAAAAJ)
 - 📃 Download my resume from here [Resume.pdf](https://github.com/user-attachments/files/20840543/Resume.v25.06.20.pdf)
 
 
