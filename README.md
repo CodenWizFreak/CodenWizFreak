@@ -38,7 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codenwizfreak&show_icons=true&theme=highcontrast&locale=en" alt="codenwizfreak" /></p>
 
-<p align="left"> <img src="https://streak-stats.demolab.com?user=CodenWizFreak&theme=radical" alt="GitHub Streak" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=CodenWizFreak&theme=radical)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codenwizfreak&label=Profile%20views&color=0e75b6&style=flat" alt="codenwizfreak" /> </p>
 
