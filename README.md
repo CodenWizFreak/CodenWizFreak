@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Atma&weight=600&size=23&pause=1000&color=F700BE&center=true&vCenter=true&width=435&lines=Kotlin%2C+Flutter%2C+React+Native+%E2%80%93+Boom!;Data+whisperer.+Insights+at+work.;Let%E2%80%99s+hack%2C+build%2C+and+break+stuff!" alt="Typing SVG" /></a></p>
 
-<img align="center" alt="nightlife" width="1100" height="400" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg4MTU3ODUsIm5iZiI6MTc0ODgxNTQ4NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAxVDIyMDQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk4YWU4MmMxNTBiMmI2NDc4ZTdkMjJjZjNhZDk3Njk1NTc0ZTc5NTI0MWU4ODY3MjJjZmRhYTg2ZmQ3NWUwNmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.udMVws-VloJduLXeCs75kLXbJ6RF4x34wISHpp12aew">
+<img align="center" alt="nightlife" width="1100" height="400" src="https://github.com/CodenWizFreakin/gifrepo/blob/main/Dawn%20for%20POPeye%20Media%20-%20Kenze%20Wee.gif?raw=true">
 
 
 
