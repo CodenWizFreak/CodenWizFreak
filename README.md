@@ -99,13 +99,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codenwizfreak&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="codenwizfreak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codenwizfreak&show_icons=true&theme=highcontrast&locale=en" alt="codenwizfreak" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CodenWizFreak&theme=radical)](https://git.io/streak-stats)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codenwizfreak&label=Profile%20views&color=0e75b6&style=flat" alt="codenwizfreak" /> </p>
 
 
