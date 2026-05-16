@@ -12,13 +12,11 @@
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhidjc3aTQ0b2E3anNrd2s4cmEyam9vM2o0bmg2MGJueDg0eDBoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 - 📫 How to reach me: **dasguptaananyo28@gmail.com**
-- 🌱 I’m currently into Generative AI, NLP, Deep Learning, DSA, Android App Development and Flutter.
+- 🌱 I’m currently into Generative AI, NLP, Deep Learning and Data Structures & Algorithms.
 - 📱 When I'm not coding, you might find me singing ancient ghazals one moment or singing along to chart-toppers the next.
-- 🔭 Currently working on ***OmiCareer***.
+- 🔭 Currently working on ***Neuromatch***.
 - ✍🏻 Find my research works at [Google Scholar](https://scholar.google.com/citations?hl=en&user=pJObMZgAAAAJ)
-- 📃 Download my resume from here [Resume.pdf](https://github.com/user-attachments/files/22311491/Resume.pdf)
-
-
+- 📃 Download my resume from here [Resume.pdf](https://github.com/user-attachments/files/27839736/Ananyo_Dasgupta_Resume.pdf)
 
 - 🌐 Want to explore more about me? Check out my portfolio website [click here](https://portfolioweb-ananyo.vercel.app)
 - 😎 Want a more fun version? Check this out [right here](https://portfolio-mob-ananyo.vercel.app)
